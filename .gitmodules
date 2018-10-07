@@ -1,0 +1,6 @@
+[submodule "appetiser"]
+	path = appetiser
+	url = https://github.com/dexterb2992/appetiser
+[submodule "api"]
+	path = api
+	url = https://github.com/dexterb2992/appetiser-api
